@@ -1,2 +1,11 @@
+##ignore this file##
 /build/
+*.classpath
+*.project
+/bin
+/build
+*.gitignore
+*.jar
+*.class
 /.settings
+/WebContent/WEB-INF/web.xml
